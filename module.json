@@ -1,0 +1,8 @@
+{
+	"disableAutoUpdate": true,
+	"options": {
+		"niceName": "PacketsLogger"
+	},
+	"servers": [""],
+	"supportUrl": "https://github.com/SoliaRdi/"
+}
